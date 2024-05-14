@@ -69,5 +69,5 @@ function simularCompra() {
     }
 }
 
-// Llamada a la función principal para simular la compr//
+// Llamada a la función principal para simular la compra//
 simularCompra();
